@@ -1,0 +1,13 @@
+gradio
+sentence-transformers
+faiss-cpu
+deep-translator
+wikipedia
+gTTS
+pydub
+speechrecognition
+requests
+bs4
+google-generativeai
+groq
+git+https://github.com/ssut/py-googletrans.git
